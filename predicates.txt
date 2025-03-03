@@ -1,0 +1,600 @@
+GSM_Measurement(
+    idReference(207859_s_at),
+    value(5.77082),
+    absoluteCall(A),
+    detectionPValue(0.303711)
+)
+GSM_Measurement(
+    idReference(206549_at),
+    value(4.62219),
+    absoluteCall(A),
+    detectionPValue(0.904785)
+)
+GSM_Measurement(
+    idReference(233510_s_at),
+    value(71.0231),
+    absoluteCall(P),
+    detectionPValue(0.000244141)
+)
+GSM_Measurement(
+    idReference(205275_at),
+    value(3.16039),
+    absoluteCall(A),
+    detectionPValue(0.80542)
+)
+GSM_Measurement(
+    idReference(215927_at),
+    value(7.79185),
+    absoluteCall(A),
+    detectionPValue(0.665527)
+)
+GSM_Measurement(
+    idReference(1553432_s_at),
+    value(3.81864),
+    absoluteCall(A),
+    detectionPValue(0.466064)
+)
+GSM_Measurement(
+    idReference(207616_s_at),
+    value(63.2889),
+    absoluteCall(P),
+    detectionPValue(0.000244141)
+)
+GSM_Measurement(
+    idReference(1557217_a_at),
+    value(0.0942226),
+    absoluteCall(A),
+    detectionPValue(0.884033)
+)
+GSM_Measurement(
+    idReference(244174_at),
+    value(7.66241),
+    absoluteCall(A),
+    detectionPValue(0.334473)
+)
+GSM_Measurement(
+    idReference(1557486_at),
+    value(5.55713),
+    absoluteCall(A),
+    detectionPValue(0.171387)
+)
+GSM_Measurement(
+    idReference(234549_at),
+    value(7.33158),
+    absoluteCall(A),
+    detectionPValue(0.334473)
+)
+GSM_Measurement(
+    idReference(204321_at),
+    value(9.25902),
+    absoluteCall(A),
+    detectionPValue(0.219482)
+)
+GSM_Measurement(
+    idReference(222969_at),
+    value(11.4039),
+    absoluteCall(A),
+    detectionPValue(0.129639)
+)
+GSM_Measurement(
+    idReference(1561171_a_at),
+    value(19.1559),
+    absoluteCall(A),
+    detectionPValue(0.296143)
+)
+GSM_Measurement(
+    idReference(235388_at),
+    value(5.95993),
+    absoluteCall(A),
+    detectionPValue(0.111572)
+)
+GSM_Measurement(
+    idReference(1553263_at),
+    value(30.1683),
+    absoluteCall(A),
+    detectionPValue(0.171387)
+)
+GSM_Measurement(
+    idReference(1568615_a_at),
+    value(13.8263),
+    absoluteCall(P),
+    detectionPValue(0.0141602)
+)
+GSM_Measurement(
+    idReference(236283_x_at),
+    value(147.115),
+    absoluteCall(P),
+    detectionPValue(0.00195313)
+)
+GSM_Measurement(
+    idReference(228589_at),
+    value(6.05567),
+    absoluteCall(A),
+    detectionPValue(0.27417)
+)
+GSM_Measurement(
+    idReference(202411_at),
+    value(1.97246),
+    absoluteCall(A),
+    detectionPValue(0.665527)
+)
+GSM_Measurement(
+    idReference(1566557_at),
+    value(105.917),
+    absoluteCall(P),
+    detectionPValue(0.000732422)
+)
+GSM_Measurement(
+    idReference(205978_at),
+    value(3.53756),
+    absoluteCall(A),
+    detectionPValue(0.432373)
+)
+GSM_Measurement(
+    idReference(227858_at),
+    value(2.34697),
+    absoluteCall(A),
+    detectionPValue(0.80542)
+)
+GSM_Measurement(
+    idReference(230666_at),
+    value(4.30023),
+    absoluteCall(A),
+    detectionPValue(0.5)
+)
+GSM_Measurement(
+    idReference(209987_s_at),
+    value(1.23775),
+    absoluteCall(A),
+    detectionPValue(0.601074)
+)
+GSM_Measurement(
+    idReference(1561373_at),
+    value(2.16392),
+    absoluteCall(A),
+    detectionPValue(0.601074)
+)
+GSM_Measurement(
+    idReference(218732_at),
+    value(105.574),
+    absoluteCall(P),
+    detectionPValue(0.00195313)
+)
+GSM_Measurement(
+    idReference(215393_s_at),
+    value(4.21846),
+    absoluteCall(A),
+    detectionPValue(0.5)
+)
+GSM_Measurement(
+    idReference(218029_at),
+    value(65.9357),
+    absoluteCall(A),
+    detectionPValue(0.0805664)
+)
+GSM_Measurement(
+    idReference(202366_at),
+    value(41.9123),
+    absoluteCall(M),
+    detectionPValue(0.0461426)
+)
+GSM_Measurement(
+    idReference(210313_at),
+    value(12.8704),
+    absoluteCall(A),
+    detectionPValue(0.171387)
+)
+GSM_Measurement(
+    idReference(1556740_at),
+    value(1.0982),
+    absoluteCall(A),
+    detectionPValue(0.753906)
+)
+GSM_Measurement(
+    idReference(237388_at),
+    value(35.7578),
+    absoluteCall(P),
+    detectionPValue(0.000244141)
+)
+GSM_Measurement(
+    idReference(219981_x_at),
+    value(114.472),
+    absoluteCall(P),
+    detectionPValue(0.000244141)
+)
+GSM_Measurement(
+    idReference(1552848_a_at),
+    value(11.4308),
+    absoluteCall(M),
+    detectionPValue(0.0561523)
+)
+GSM_Measurement(
+    idReference(239375_at),
+    value(21.9884),
+    absoluteCall(M),
+    detectionPValue(0.0461426)
+)
+GSM_Measurement(
+    idReference(1553703_at),
+    value(85.4654),
+    absoluteCall(P),
+    detectionPValue(0.0012207)
+)
+GSM_Measurement(
+    idReference(213360_s_at),
+    value(539.079),
+    absoluteCall(P),
+    detectionPValue(0.000732422)
+)
+GSM_Measurement(
+    idReference(226362_at),
+    value(91.3379),
+    absoluteCall(P),
+    detectionPValue(0.00195313)
+)
+GSM_Measurement(
+    idReference(AFFX-HSAC07/X00351_5_at),
+    value(122.779),
+    absoluteCall(P),
+    detectionPValue(0.000856509)
+)
+GSM_Measurement(
+    idReference(228574_at),
+    value(13.2147),
+    absoluteCall(M),
+    detectionPValue(0.0461426)
+)
+GSM_Measurement(
+    idReference(1554914_at),
+    value(1.10819),
+    absoluteCall(A),
+    detectionPValue(0.753906)
+)
+GSM_Measurement(
+    idReference(240706_at),
+    value(5.18679),
+    absoluteCall(A),
+    detectionPValue(0.149658)
+)
+GSM_Measurement(
+    idReference(224917_at),
+    value(51.8502),
+    absoluteCall(P),
+    detectionPValue(0.00585938)
+)
+GSM_Measurement(
+    idReference(210339_s_at),
+    value(13.2944),
+    absoluteCall(A),
+    detectionPValue(0.398926)
+)
+GSM_Measurement(
+    idReference(235741_at),
+    value(0.694637),
+    absoluteCall(A),
+    detectionPValue(0.943848)
+)
+GSM_Measurement(
+    idReference(237423_at),
+    value(2.16879),
+    absoluteCall(A),
+    detectionPValue(0.72583)
+)
+GSM_Measurement(
+    idReference(1560935_s_at),
+    value(2.3291),
+    absoluteCall(A),
+    detectionPValue(0.904785)
+)
+GSM_Measurement(
+    idReference(215048_at),
+    value(2.93566),
+    absoluteCall(A),
+    detectionPValue(0.870361)
+)
+GSM_Measurement(
+    idReference(227111_at),
+    value(137.365),
+    absoluteCall(P),
+    detectionPValue(0.0012207)
+)
+GSM_Measurement(
+    idReference(237919_at),
+    value(14.1853),
+    absoluteCall(A),
+    detectionPValue(0.149658)
+)
+GSM_Measurement(
+    idReference(1563420_at),
+    value(1.30325),
+    absoluteCall(A),
+    detectionPValue(0.932373)
+)
+GSM_Measurement(
+    idReference(230805_at),
+    value(50.9578),
+    absoluteCall(P),
+    detectionPValue(0.0375977)
+)
+GSM_Measurement(
+    idReference(203523_at),
+    value(97.6261),
+    absoluteCall(P),
+    detectionPValue(0.0375977)
+)
+GSM_Measurement(
+    idReference(1560091_a_at),
+    value(0.636795),
+    absoluteCall(A),
+    detectionPValue(0.665527)
+)
+GSM_Measurement(
+    idReference(36936_at),
+    value(133.421),
+    absoluteCall(P),
+    detectionPValue(0.000388206)
+)
+GSM_Measurement(
+    idReference(240183_at),
+    value(0.570231),
+    absoluteCall(A),
+    detectionPValue(0.994141)
+)
+GSM_Measurement(
+    idReference(1561526_at),
+    value(9.65787),
+    absoluteCall(A),
+    detectionPValue(0.19458)
+)
+GSM_Measurement(
+    idReference(234953_x_at),
+    value(16.6716),
+    absoluteCall(A),
+    detectionPValue(0.219482)
+)
+GSM_Measurement(
+    idReference(208105_at),
+    value(0.931154),
+    absoluteCall(A),
+    detectionPValue(0.72583)
+)
+GSM_Measurement(
+    idReference(203192_at),
+    value(25.2211),
+    absoluteCall(A),
+    detectionPValue(0.067627)
+)
+GSM_Measurement(
+    idReference(238564_at),
+    value(9.23734),
+    absoluteCall(M),
+    detectionPValue(0.0537109)
+)
+GSM_Measurement(
+    idReference(241938_at),
+    value(141.4),
+    absoluteCall(P),
+    detectionPValue(0.000732422)
+)
+GSM_Measurement(
+    idReference(237070_at),
+    value(3.61433),
+    absoluteCall(A),
+    detectionPValue(0.593262)
+)
+GSM_Measurement(
+    idReference(225644_at),
+    value(66.9649),
+    absoluteCall(P),
+    detectionPValue(0.000244141)
+)
+GSM_Measurement(
+    idReference(1558077_s_at),
+    value(12.3258),
+    absoluteCall(A),
+    detectionPValue(0.165771)
+)
+GSM_Measurement(
+    idReference(221676_s_at),
+    value(67.4664),
+    absoluteCall(P),
+    detectionPValue(0.000244141)
+)
+GSM_Measurement(
+    idReference(1556932_at),
+    value(1.22818),
+    absoluteCall(A),
+    detectionPValue(0.533936)
+)
+GSM_Measurement(
+    idReference(226336_at),
+    value(511.704),
+    absoluteCall(P),
+    detectionPValue(0.000244141)
+)
+GSM_Measurement(
+    idReference(1566716_at),
+    value(0.63992),
+    absoluteCall(A),
+    detectionPValue(0.558594)
+)
+GSM_Measurement(
+    idReference(236609_at),
+    value(54.2788),
+    absoluteCall(P),
+    detectionPValue(0.0107422)
+)
+GSM_Measurement(
+    idReference(1555251_a_at),
+    value(9.55744),
+    absoluteCall(A),
+    detectionPValue(0.5)
+)
+GSM_Measurement(
+    idReference(219830_at),
+    value(8.57454),
+    absoluteCall(A),
+    detectionPValue(0.334473)
+)
+GSM_Measurement(
+    idReference(220408_x_at),
+    value(82.5456),
+    absoluteCall(P),
+    detectionPValue(0.000732422)
+)
+GSM_Measurement(
+    idReference(217145_at),
+    value(9.67011),
+    absoluteCall(M),
+    detectionPValue(0.0561523)
+)
+GSM_Measurement(
+    idReference(207466_at),
+    value(5.39993),
+    absoluteCall(A),
+    detectionPValue(0.212891)
+)
+GSM_Measurement(
+    idReference(216130_at),
+    value(1.54117),
+    absoluteCall(A),
+    detectionPValue(0.828613)
+)
+GSM_Measurement(
+    idReference(211470_s_at),
+    value(3.67405),
+    absoluteCall(A),
+    detectionPValue(0.633789)
+)
+GSM_Measurement(
+    idReference(1554541_a_at),
+    value(3.76203),
+    absoluteCall(A),
+    detectionPValue(0.466064)
+)
+GSM_Measurement(
+    idReference(229231_at),
+    value(221.629),
+    absoluteCall(P),
+    detectionPValue(0.00292969)
+)
+GSM_Measurement(
+    idReference(AFFX-HUMISGF3A/M97935_MB_at),
+    value(19.9865),
+    absoluteCall(P),
+    detectionPValue(0.000972149)
+)
+GSM_Measurement(
+    idReference(215686_x_at),
+    value(0.70295),
+    absoluteCall(A),
+    detectionPValue(0.533936)
+)
+GSM_Measurement(
+    idReference(208133_at),
+    value(2.58673),
+    absoluteCall(A),
+    detectionPValue(0.398926)
+)
+GSM_Measurement(
+    idReference(227042_at),
+    value(83.3631),
+    absoluteCall(P),
+    detectionPValue(0.0012207)
+)
+GSM_Measurement(
+    idReference(230659_at),
+    value(86.7835),
+    absoluteCall(P),
+    detectionPValue(0.0012207)
+)
+GSM_Measurement(
+    idReference(227491_at),
+    value(34.5869),
+    absoluteCall(P),
+    detectionPValue(0.0239258)
+)
+GSM_Measurement(
+    idReference(209896_s_at),
+    value(42.4669),
+    absoluteCall(P),
+    detectionPValue(0.00585938)
+)
+GSM_Measurement(
+    idReference(214298_x_at),
+    value(270.151),
+    absoluteCall(P),
+    detectionPValue(0.000244141)
+)
+GSM_Measurement(
+    idReference(1552711_a_at),
+    value(44.0221),
+    absoluteCall(P),
+    detectionPValue(0.0185547)
+)
+GSM_Measurement(
+    idReference(202671_s_at),
+    value(18.0936),
+    absoluteCall(P),
+    detectionPValue(0.0141602)
+)
+GSM_Measurement(
+    idReference(229362_at),
+    value(15.8821),
+    absoluteCall(P),
+    detectionPValue(0.0302734)
+)
+GSM_Measurement(
+    idReference(214674_at),
+    value(42.2901),
+    absoluteCall(P),
+    detectionPValue(0.00585938)
+)
+GSM_Measurement(
+    idReference(219653_at),
+    value(4.43655),
+    absoluteCall(A),
+    detectionPValue(0.5)
+)
+GSM_Measurement(
+    idReference(231735_s_at),
+    value(310.357),
+    absoluteCall(P),
+    detectionPValue(0.000244141)
+)
+GSM_Measurement(
+    idReference(208685_x_at),
+    value(97.89),
+    absoluteCall(P),
+    detectionPValue(0.000732422)
+)
+GSM_Measurement(
+    idReference(205053_at),
+    value(151.77),
+    absoluteCall(P),
+    detectionPValue(0.000244141)
+)
+GSM_Measurement(
+    idReference(204786_s_at),
+    value(36.204),
+    absoluteCall(P),
+    detectionPValue(0.000244141)
+)
+GSM_Measurement(
+    idReference(229150_at),
+    value(0.978748),
+    absoluteCall(A),
+    detectionPValue(0.72583)
+)
+GSM_Measurement(
+    idReference(234897_s_at),
+    value(2.67912),
+    absoluteCall(A),
+    detectionPValue(0.72583)
+)
+GSM_Measurement(
+    idReference(213038_at),
+    value(11.2178),
+    absoluteCall(A),
+    detectionPValue(0.601074)
+)
